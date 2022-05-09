@@ -2,6 +2,7 @@ Name   - Nithyapriya S
 RollNo - CS21M510
 mail   - nithyapriya1997@gmail.com
 
+
 To generate binary - gcc main.cpp -std=c++11 -lstdc++ -o main
 
 ******************************************************************Output******************************************************************
